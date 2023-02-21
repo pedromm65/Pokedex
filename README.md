@@ -67,7 +67,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PedroLima-28535a151/)](https://www.linkedin.com/in/pedro-lima-824154231/)
-[![Gmail Badge](https://img.shields.io/badge/Pedro%20Lima-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelmarcola@gmail.com)](pedrohlimadev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Pedro%20Lima-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohlimadev@gmail.com)](mailto:pedrohlimadev@gmail.com)
 
 ## 😄 Seja um dos contribuidores<br>
 
